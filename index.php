@@ -37,7 +37,7 @@ require_once 'cdn.html';
             <div class="container d-flex align-items-center flex-column">
 	<br>
   <br>
-  <h1>SABER - UNIDAD 3</h1>
+  <h1>SABER</h1>
   <br>
   <br>
 	<center>
